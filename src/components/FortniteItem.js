@@ -18,13 +18,11 @@ const styles = theme => ({
     },
     itemName: {
         color: theme.text.primary,
-        fontFamily: 'Burbank Big Condensed',
         fontWeight: 'light',
         fontSize: 30
     },
     itemInfo: {
         color: theme.text.secondary,
-        fontFamily: 'Burbank Big Condensed',
         fontWeight: 'light',
         fontSize: 20
     },

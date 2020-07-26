@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
         // top: '10%',
         transform: "translate(-50%)",
         color: theme.text.primary,
-        fontFamily: 'Burbank Big Condensed'
+        // fontFamily: 'Burbank Big Condensed'
     }
 }));
 
