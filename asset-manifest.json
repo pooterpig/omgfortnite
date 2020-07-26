@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/omgfortnite/static/css/main.bd4c9e43.chunk.css",
-    "main.js": "/omgfortnite/static/js/main.fcf15d0d.chunk.js",
-    "main.js.map": "/omgfortnite/static/js/main.fcf15d0d.chunk.js.map",
+    "main.js": "/omgfortnite/static/js/main.79925f4e.chunk.js",
+    "main.js.map": "/omgfortnite/static/js/main.79925f4e.chunk.js.map",
     "runtime-main.js": "/omgfortnite/static/js/runtime-main.60d0737b.js",
     "runtime-main.js.map": "/omgfortnite/static/js/runtime-main.60d0737b.js.map",
-    "static/js/2.c95c88e9.chunk.js": "/omgfortnite/static/js/2.c95c88e9.chunk.js",
-    "static/js/2.c95c88e9.chunk.js.map": "/omgfortnite/static/js/2.c95c88e9.chunk.js.map",
+    "static/js/2.38f24227.chunk.js": "/omgfortnite/static/js/2.38f24227.chunk.js",
+    "static/js/2.38f24227.chunk.js.map": "/omgfortnite/static/js/2.38f24227.chunk.js.map",
     "index.html": "/omgfortnite/index.html",
-    "precache-manifest.8649e625c2ff93b18f2cd802ae5e6105.js": "/omgfortnite/precache-manifest.8649e625c2ff93b18f2cd802ae5e6105.js",
+    "precache-manifest.01b7759cf61ee7750ba1b4f197e2db5b.js": "/omgfortnite/precache-manifest.01b7759cf61ee7750ba1b4f197e2db5b.js",
     "service-worker.js": "/omgfortnite/service-worker.js",
     "static/css/main.bd4c9e43.chunk.css.map": "/omgfortnite/static/css/main.bd4c9e43.chunk.css.map",
-    "static/js/2.c95c88e9.chunk.js.LICENSE.txt": "/omgfortnite/static/js/2.c95c88e9.chunk.js.LICENSE.txt",
-    "static/media/BurbankBigCondensed-Bold.otf": "/omgfortnite/static/media/BurbankBigCondensed-Bold.800e985f.otf"
+    "static/js/2.38f24227.chunk.js.LICENSE.txt": "/omgfortnite/static/js/2.38f24227.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60d0737b.js",
-    "static/js/2.c95c88e9.chunk.js",
+    "static/js/2.38f24227.chunk.js",
     "static/css/main.bd4c9e43.chunk.css",
-    "static/js/main.fcf15d0d.chunk.js"
+    "static/js/main.79925f4e.chunk.js"
   ]
 }

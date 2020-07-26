@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/omgfortnite/precache-manifest.8649e625c2ff93b18f2cd802ae5e6105.js"
+  "/omgfortnite/precache-manifest.01b7759cf61ee7750ba1b4f197e2db5b.js"
 );
 
 self.addEventListener('message', (event) => {
