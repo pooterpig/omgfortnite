@@ -2,6 +2,8 @@ import React from 'react';
 import { withStyles } from '@material-ui/core/styles';
 import { green } from '@material-ui/core/colors';
 import { CardActionArea, CardActions, CardContent, CardMedia, Typography, Card, Grid } from '@material-ui/core';
+import vbucks from './vbucks.png';
+import star from './star.png';
 
 const styles = theme => ({
     root: {
@@ -101,7 +103,7 @@ class FortniteItem extends React.Component {
                             </Typography>
                         </Grid>
                         <Grid item xs={2} xl={1} sm={1} md={1} lg={1}>
-                            <img src='https://i.dlpng.com/static/png/6877748_preview.png' alt='vbucks' className={classes.vbucks} />
+                            <img src={vbucks} alt='vbucks' className={classes.vbucks} />
                         </Grid>
                         <Grid item xs={10} xl={11} sm={11} md={11} lg={11}>
                             <Typography className={classes.itemInfo}>
@@ -109,7 +111,7 @@ class FortniteItem extends React.Component {
                             </Typography>
                         </Grid>
                         <Grid item xs={2} xl={1} sm={1} md={1} lg={1}>
-                            <img src='https://i.dlpng.com/static/png/135530_preview.png' alt='ratings' className={classes.vbucks} />
+                            <img src={star} alt='ratings' className={classes.vbucks} />
                         </Grid>
                         <Grid item xs={10} xl={11} sm={11} md={11} lg={11}>
                             <Typography className={classes.itemInfo} style={{marginTop: 2}}>
